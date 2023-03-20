@@ -1,6 +1,6 @@
 # Objetivos de la repositorio
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Este proyecto se ha creado con el fin de practicar el uso de GIT + GITHUB, curso de reciclaje marzo 2023
 
 
 ## Notas
